@@ -11,4 +11,4 @@ _Card-2 output_
 
 _Card-3 output_
 
-![output image}(card-3/output/card-3.gif).
+![output image](card-3/output/card-3.gif).
